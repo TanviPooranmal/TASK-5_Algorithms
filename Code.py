@@ -3,7 +3,7 @@ import networkx as nx
 import time
 import csv
 from datetime import datetime, timedelta
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 
 """
 To debug the code and see what is happening, several commenetd print statements are provided, which can be uncommented to see how the algorithm is being executed.
